@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">maxbox</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiamF6cm9tZXJvMTQyIiwiYSI6ImNrcGU5Z25oMjBweTgyd21sZmdsbWRrcHcifQ.rlwo_tHGm16M-17PMfxIaQ</string>
+</resources>
